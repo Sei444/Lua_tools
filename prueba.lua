@@ -1,23 +1,14 @@
 -- Comparador de tablas esES vs enUS
 local AL = {
     esES = {
-        --Text strings for UI objects
-        --["AtlasLoot"] = true,
-        ["No match found for"] = "No se ha encontrado ninguna coincidencia",
-        ["Search"] = "Buscar",
-        ["Clear"] = "Limpiar",
---          ["Select Loot Table"] = "Selecciona tabla",
---          ["Select Sub-Table"] = "Selecciona subtabla",
---          ["Drop Rate: "] = "Prob. de conseguirse: ",
+		["Alzzin the Wildshaper"] = "Alzzin el Formaferal",
+		["Ambassador Flamelash"] = "Embajador Latifuego",
     },
+
     enUS = {
-        ["AtlasLoot"] = true,
-        ["Atlas"] = true,
-        ["AtlasLoot Enhanced"] = true,
-        ["No match found for"] = true,
-        ["Search"] = true,
-        ["Clear"] = true,
-    }
+		["Alzzin the Wildshaper"] = true,
+		["Ambassador Flamelash"] = true,
+	},
 }
 
 --Inicio de funcion de claves extrañas o no encontradas
